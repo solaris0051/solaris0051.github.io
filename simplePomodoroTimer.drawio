@@ -1,0 +1,97 @@
+<mxfile host="Electron" modified="2024-03-09T22:51:34.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="KhW01ITKsWVUIvfSm8hX" version="23.1.5" type="device">
+  <diagram id="LdKvfCDa8RjUUC_c0zoU" name="Page-1">
+    <mxGraphModel dx="1099" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-24" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=2;strokeColor=default;fontSize=16;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="21" width="780" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-25" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-24" vertex="1">
+          <mxGeometry width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-26" value="作品番号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-25" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-27" value="概要" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-25" vertex="1">
+          <mxGeometry x="160" width="400" height="40" as="geometry">
+            <mxRectangle width="400" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-28" value="作品名" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=none;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-25" vertex="1">
+          <mxGeometry x="560" width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-24" vertex="1">
+          <mxGeometry y="40" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-30" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-29" vertex="1">
+          <mxGeometry width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-31" value="マルチ・デュータイム・ポモドーロタイマー" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-29" vertex="1">
+          <mxGeometry x="160" width="400" height="40" as="geometry">
+            <mxRectangle width="400" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-32" value="simplePomodoroTimer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-29" vertex="1">
+          <mxGeometry x="560" width="220" height="40" as="geometry">
+            <mxRectangle width="220" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-33" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=2;strokeColor=#000000;fillColor=#1ba1e2;fontColor=#ffffff;swimlaneLine=1;rounded=0;fontSize=16;verticalAlign=top;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="780" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-34" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;verticalAlign=top;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-33" vertex="1">
+          <mxGeometry width="780" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-35" value="機能" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-34" vertex="1">
+          <mxGeometry width="160" height="590" as="geometry">
+            <mxRectangle width="160" height="590" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-36" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;[デュータイム]&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・25分, 30分,&amp;nbsp; 55分から選択可能 (&lt;span style=&quot;background-color: initial;&quot;&gt;対応するボタンクリックで開始)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;[オフデュータイム]&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・5分 (対応する&lt;span style=&quot;background-color: initial;&quot;&gt;ボタンクリックで開始)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;[タイマー複数動作防止機能]&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・デュータイムとオフデュータイムの4つのボタンのうち1ボタンのみクリック可能&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; (排他制御)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[残時間表示機能]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・タイマーの残時間を一秒単位でカウントダウン行事する機能&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;[リセット機能]&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・デュータイムとオフデュータイムのカウントダウン時に、初期状態に戻る機能&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;[バックグラウンドカラーと文言自動変更機能]&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・デュータイム期間は赤色、オフデュータイム期間は緑色に自動変更&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・デュータイムとオフデュータイムの開始時に各々の期間に合った文言を自動表示&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;[バイブレーション機能]&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・スマートフォン使用者への通知を考慮&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;[自動リロード機能]&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・タイマー終了後、ユーザからの応答がない場合、初期状態に強制復帰する機能&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;[追加機能 (Service WorkerとwebmanifestによるPWA化)]&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;・インストール/ アンインストール機能&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;・オフライン(キャッシュ優先)機能&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;verticalAlign=top;strokeWidth=2;fontSize=16;labelPosition=center;verticalLabelPosition=middle;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-34" vertex="1">
+          <mxGeometry x="160" width="620" height="590" as="geometry">
+            <mxRectangle width="620" height="590" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-44" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=2;strokeColor=#000000;fillColor=#1ba1e2;fontColor=#ffffff;verticalAlign=top;fontSize=16;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="729" width="780" height="471" as="geometry" />
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-44" vertex="1">
+          <mxGeometry width="780" height="471" as="geometry" />
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-49" value="技術ポイント" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-48" vertex="1">
+          <mxGeometry width="160" height="471" as="geometry">
+            <mxRectangle width="160" height="471" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-50" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;[言語]&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・JavaScript≧ES6&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・Bootstrap v5.3&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[ソース管理ツール・サービス]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;・local:&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Git&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;・remote:&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;GitHub&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[開発環境]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・VS Code&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・Node.js 20.11.1LTS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・Webpack 5&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; ・各種&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;pluginとloader、task runner、bundle機能などのconfiguration&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;・npm, ncu&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・Workbox&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[公開方法]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・Vercel for GitHub&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;　(live deployment)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[公開先]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・Vercel cloud&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;horizontal=1;verticalAlign=top;strokeWidth=2;strokeColor=#000000;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-48" vertex="1">
+          <mxGeometry x="160" width="620" height="471" as="geometry">
+            <mxRectangle width="620" height="471" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-54" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=2;strokeColor=#000000;fillColor=#1ba1e2;fontColor=#ffffff;fontSize=16;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1220" width="780" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-61" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-54" vertex="1">
+          <mxGeometry width="780" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-62" value="学び" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#1ba1e2;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;fontColor=#ffffff;strokeColor=#006EAF;strokeWidth=2;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-61" vertex="1">
+          <mxGeometry width="160" height="330" as="geometry">
+            <mxRectangle width="160" height="330" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hjSwI5PDpPuFmJWyF_WU-63" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;[プロジェクトスコープの重要性]&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・ユースケース検討の重要性&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[非同期処理]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・async function&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・promise chaining etc.&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[イベントループ]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・Web worker&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・worker global scope&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;・メッセージイベント(text)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;[PWA化]&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;・WorkboxとWebpackを活用したPWAの実現方法&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[Bootstrap CSSパターンの活用方法]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;strokeWidth=2;verticalAlign=top;fontSize=16;perimeterSpacing=2;" parent="hjSwI5PDpPuFmJWyF_WU-61" vertex="1">
+          <mxGeometry x="160" width="620" height="330" as="geometry">
+            <mxRectangle width="620" height="330" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
